@@ -21,3 +21,5 @@ for x in range(5, 101, 5):
         for z in range(1, 101 - x - y):
             if x + y + z == 100 and x // 5 + y // 3 + z == 100:
                 print("{0}公鸡{1}母鸡{2}小鸡".format(x // 5,y // 3,z))
+
+# hhhhh
